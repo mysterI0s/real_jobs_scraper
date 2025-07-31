@@ -53,3 +53,8 @@ python -m asyncio real_jobs_scraper.py
 ## 📚 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+Let me know if you’d like to:
+- Add logging support  
+- Deploy it as a scheduled job  
+- Extend it to scrape more job types or sites
