@@ -20,8 +20,8 @@ It collects job title, company name, and job link from multiple pages and saves 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weworkremotely-scraper.git
-cd weworkremotely-scraper
+git clone https://github.com/your-username/real_jobs_scraper.git
+cd real_jobs_scraper
 ```
 ### 2. Create a virtual environment (optional but recommended)
 ```bash
